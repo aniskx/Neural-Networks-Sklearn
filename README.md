@@ -18,6 +18,3 @@ __'weights '__:https://www.kaggle.com/chrisbow/2018-calorie-exercise-and-weight-
 [Regression using NN](https://github.com/aniskx/Neural-Networks-Sklearn/blob/master/MLPregression_diet.ipynb) :MLP Neural Network with Scikit Learn for Regression predicting weight changes 
 
 [Classification using NN](https://github.com/aniskx/Neural-Networks-Sklearn/blob/master/MLPClassification_LegoImages.ipynb):Lego image classifiation with MLP Neural Network in scikit-learn
-
-
-[Clustering an image Data](https://github.com/aniskx/ML-clustering-Sklearn/blob/master/Clustering%20an%20image%20Data.ipynb) : clustering Mnist digit image dataset using kmeans and minibatch 
