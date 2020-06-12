@@ -9,7 +9,7 @@ Scikit learn has a very limited support building neural networks compared to Dee
 
 __'Lego Images '__https://www.kaggle.com/joosthazelzet/lego-brick-images
 
-__'weights '__:https://www.kaggle.com/chrisbow/2018-calorie-exercise-and-weight-changes
+__'weights v'__:https://www.kaggle.com/chrisbow/2018-calorie-exercise-and-weight-changes
 
 
 
